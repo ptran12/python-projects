@@ -13,3 +13,6 @@ print(df.describe()['i_d'])
 grouped_df = df.groupby(['profile_id']).max()
 print (grouped_df['torque'])
 # max torque grouped on the profile_ids
+
+profile_id_4_df = df[df['profile_id'] == 4]
+profile_id_4_df.to_excel('output.xlsx')
