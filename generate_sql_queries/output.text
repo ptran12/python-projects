@@ -1,0 +1,5 @@
+INSET INTO NBA_Players('Passenger','Pclass','Name') VALUES ( 892 , 4 ,'Lebron James');
+INSET INTO NBA_Players('Passenger','Pclass','Name') VALUES ( 893 , 3 ,'Stephen Curry');
+INSET INTO NBA_Players('Passenger','Pclass','Name') VALUES ( 894 , 2 ,'Kevin Durant');
+INSET INTO NBA_Players('Passenger','Pclass','Name') VALUES ( 895 , 1 ,'Anthony Davis');
+INSET INTO NBA_Players('Passenger','Pclass','Name') VALUES ( 896 , 3 ,'James Harden');
